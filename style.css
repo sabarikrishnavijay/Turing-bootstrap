@@ -1,0 +1,214 @@
+@media only screen and (max-width: 767px){
+    .banner-two{
+        height: 700px;
+        margin-bottom: 100px;
+    }
+    .banner-three-row{
+        display: flex;
+        flex-direction: column;
+    }
+    #why-row{
+        padding-left: 1px;
+        width: 100%;
+    }
+    .why .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .row-two{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .colm{
+        width: 200px;
+    }
+    .footer-logo{
+        padding-left: 80px;
+    }
+    .banner-row .col-md-4{
+       margin-top: 0px;
+    }
+}
+
+.container-fluid{
+    background-color: rgb(255, 255, 255);
+}
+.navbar-nav{
+    padding-right: 100px;
+    margin-left: auto;
+
+}
+
+.nav-link{
+    font-size: 20px;
+   color: #444444;
+   font-weight: 700;
+}
+.nav-item{
+    padding-right: 20px;
+}
+.title{
+  
+    font-size: 60px;
+    font-weight: 900;
+    
+}
+#banner{
+    margin-top: 100px
+}
+.banner-text{
+    margin-top: 100px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.sub-text{
+  
+    font-weight: 450;
+    margin-top: 100px;
+}
+.banner-image{
+    display: flex;
+    align-items: center;
+  
+}
+.banner-image img{
+    width: 704px;
+    height: 605px;
+}
+.banner-bottom{
+    margin-bottom: 100px;
+}
+.btn-text{
+    font-size: 24px;
+}
+
+.look{
+    color: #444444;
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 20px;
+
+}
+.job{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    padding-left: 5px;
+}
+.company{
+    margin-bottom: 75px;
+}
+
+
+.tc{
+   
+font-size: 18px;
+
+}
+.logoimg{
+    
+    padding: 10px;
+}
+.logo{
+    padding-left: 10px;
+}
+.col-md-4 img{
+    width: 48px;
+    height: 48px;
+    margin: 20px;
+
+}
+.col-md-4 span{
+    color: aqua;
+   
+    font-size: 20px;
+    margin-top:10px;
+    height: 60px;
+  
+}
+.sub{
+    margin-top: 50px;
+    color: white;
+}
+.banner-two{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    height: 500px;
+}
+    
+.banner-two-title{
+  padding-top: 100px;
+    color: white;
+}
+.col-md-4{
+    margin-top: 50px;
+}
+
+
+.banner-three-image{
+    display:flex ;
+    align-items: center;
+    
+}
+.banner-three-image img{
+    width: 704px;
+    height: 400px;
+}
+.logo-and-text{
+    margin-bottom: 20px;
+    
+}
+.banner-three-text{
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: space-around;
+}
+   
+ 
+
+
+.banner-two .col-md-4{
+   display: flex;
+  
+    justify-content: center;
+}
+
+#why-row .col-md-4{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+   
+    
+
+}
+.why{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.why-text{
+    font-size: 24px;
+    color: rgb(32, 219, 32);
+    font-weight: 800;
+}
+.join{
+    width: 100%;
+    height: 500px;
+}
+.colm{
+    width: 330px;
+}
+.colm a{
+    text-decoration: none;
+    color: #444444;
+}
+.address{
+    margin: 0;
+}
+.footer .container-fluid{
+    background-color: black;
+}
